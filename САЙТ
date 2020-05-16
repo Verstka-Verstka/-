@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+</head>
+<body>
+   <div class="container">
+    <div class="header">
+        <div class="product">
+            <h1>Product Name</h1>
+            <ul class="sps">
+                <li>Put on this page information about your product</li>
+                <li>A detailed description of your product</li>
+                <li>Tell us about the advantages and merits</li>
+                <li>Associate the page with the payment system</li>
+            </ul>
+        </div>
+        <div class="banner"></div>
+    </div>
+    </div>
+    <p>ХАХАХА</p>
+</body>
+</html>
